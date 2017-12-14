@@ -29,11 +29,13 @@ header {
 
 h1 {
     margin: 0%;
-    
+    float: left;
+    overflow: hidden;
 }
 
 nav ul {
   font-size: 1.125rem;
+  float: right;
 }
 
 nav a {
